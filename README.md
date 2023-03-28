@@ -1,10 +1,11 @@
-### Hi there 👋
-
+Hello there!
+<h1>Sejam todxs bem vindxs!!!<h1/>
 <div>
    <img align="center" src="https://user-images.githubusercontent.com/129134581/228111100-3663098c-d03b-4f5a-b72f-f22e830b0405.png"/>
-
-</div><br>
-
+</div>
+   <h2>E quem é o Felipe?</h2>
+<p> Sou um analista de sistemas no inicio da jornada, apaixonado por T.I. visando contribuir com o sucesso e crescimento de empresas que valorizam o uso estratégico da tecnologia, e priorizam um ambiente de trabalho saudável e equilibrado. Sempre disposto a aprender e enfrentar novos desafios. Possuo habilidades de programação em Python, gerenciamento e defesa de redes, e segurança cibernética.</> <img align="right" src="https://user-images.githubusercontent.com/129134581/228112851-3c17e07d-7c60-4de8-9464-4d8b48315092.gif"/>
+</div>
 <div>
    <a href="https://github.com/devemdobro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfepinheiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

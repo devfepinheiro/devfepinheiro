@@ -1,5 +1,5 @@
 Hello there!
-<h1>Sejam todxs bem vindxs!!!<h1/>
+<h1>Sejam todxs bem vindos!!!<h1/>
 <div>
    <img align="center" src="https://user-images.githubusercontent.com/129134581/228111100-3663098c-d03b-4f5a-b72f-f22e830b0405.png"/>
 </div>
